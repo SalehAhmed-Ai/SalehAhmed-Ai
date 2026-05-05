@@ -73,13 +73,18 @@ An AI-focused project — work in progress as I dive deeper into ML.
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SalehAhmed-Ai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalehAhmed-Ai&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SalehAhmed-Ai&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 ---
 
 <p align="center">
   🔥 Always learning, building, and growing in AI & Data Science
+</p>
 </p>
